@@ -4533,7 +4533,7 @@ ul.pagination.pagination-pasific li.active a {
 /*  ----------------------------------------------------
 32. VIDEO YOUTUBE
 -------------------------------------------------------- */
-#videoFrame {
+.videoFrame {
     margin-right: auto;
     margin-left: auto;
     float: none;
